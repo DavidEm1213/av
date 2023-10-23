@@ -58,6 +58,7 @@
       color: rgb(7, 2, 2);
       font-size: 20px;
       cursor: pointer;
+      align: center
       
     }
     
@@ -76,7 +77,7 @@
       <label for="password">Password:</label>
       <input type="password" id="password" name="password" required>
       <input type="submit" value="Login">
-      <label for="forgot password?"  align="center"><u><a style="color: #0A6402;"   href="https://github.com/">forgot password?</a></u></label>
+      <label for="forgot password?"  align="center"><u><a style="color: #0A6402;"href="https://github.com/">forgot password?</a></u></label>
       <h5 align="center"> Don't have an account?</h5>
       <input type="button" value="create an account"> 
     </form>
